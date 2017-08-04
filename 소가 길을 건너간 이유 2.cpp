@@ -2,9 +2,6 @@
 #include<string>
 
 using namespace std;
-
-
-
 int main()
 {
 	int check[26][26] = { 0, };
