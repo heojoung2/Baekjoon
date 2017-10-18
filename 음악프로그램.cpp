@@ -1,5 +1,5 @@
 /*
-ภงป๓มคทฤ(topological sort)
+ร€ยงยปรณรยคยทร(topological sort)
 */
 
 #include<iostream>
@@ -68,4 +68,3 @@ int main()
 
 	return 0;
 }
-
