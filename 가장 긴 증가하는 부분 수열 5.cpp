@@ -83,3 +83,4 @@ int main()
 	cout << num - result_num << endl;
 	return 0;
 }
+
