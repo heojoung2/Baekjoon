@@ -28,3 +28,4 @@ int main()
 	cout << dp[num - 1] << endl;
 	return 0;
 }
+

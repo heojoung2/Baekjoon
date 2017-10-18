@@ -18,3 +18,4 @@ int main()
 	cout << dp[number-1][0]+dp[number - 1][1] << endl;
 	return 0;
 }
+
