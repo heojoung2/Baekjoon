@@ -63,4 +63,3 @@ int main()
 		cout << result[i] << endl;
 	return 0;
 }
-
