@@ -1,7 +1,7 @@
-/*Counting sorting(°è¼öÁ¤·Ä)
+/*Counting sorting(ê³„ìˆ˜ì •ë ¬)
 O(n)
-¼ýÀÚ°¡ ¶ç¾ö¶ç¾öÀÖÀ¸¸é ¸Þ¸ð¸®³¶ºñ
-¼ýÀÚ°¡ ¸ô·ÁÀÖÀ» ¶§ »ç¿ëÇÏ¸é È¿À²Àû
+ìˆ«ìžê°€ ë„ì—„ë„ì—„ìžˆìœ¼ë©´ ë©”ëª¨ë¦¬ë‚­ë¹„
+ìˆ«ìžê°€ ëª°ë ¤ìžˆì„ ë•Œ ì‚¬ìš©í•˜ë©´ íš¨ìœ¨ì 
 */
 
 #include <stdio.h>
