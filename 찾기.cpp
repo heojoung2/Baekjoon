@@ -1,6 +1,6 @@
 /* 
-KMP¾Ë°í¸®Áò ( ¹®ÀÚ¿­°Ë»ö O(N+M) )
-°ø¹éÀ» Æ÷ÇÔÇÑ ¹®ÀÚÀÔ·Â
+KMPì•Œê³ ë¦¬ì¦˜ ( ë¬¸ìžì—´ê²€ìƒ‰ O(N+M) )
+ê³µë°±ì„ í¬í•¨í•œ ë¬¸ìžìž…ë ¥
 */
 
 #include<iostream>
